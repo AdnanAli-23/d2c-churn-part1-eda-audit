@@ -1,0 +1,7 @@
+Libraries needed for the EDA and Audit notebooks
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
